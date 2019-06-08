@@ -12,7 +12,7 @@ function init() {
   root.renderer.setPixelRatio(window.devicePixelRatio || 1);
   root.camera.position.set(0, 0, 60);
 
-  var width = 40;
+  var width = 80;
   var height = 40;
 
   var slide = new Slide(width, height, 'out');
