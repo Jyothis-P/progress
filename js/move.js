@@ -7,6 +7,7 @@
     if (num >= 100) 
     { 
       overlay.style.transform = "translate(0px,-100vh)";
+     elem.style.display = "none";
       clearInterval(id);
 
     }
