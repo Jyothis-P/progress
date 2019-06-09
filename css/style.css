@@ -11,7 +11,7 @@ canvas {
 {
 	height: 100vh;
 	width: 100vw;
-	background-color: black;
+	background-color: white;
 	margin: 0px 0px ;
 	transition: transform 0.5s ;
 	position: fixed;
@@ -22,7 +22,7 @@ canvas {
 #counter
 {
 	
-	color: white;
+	color: black;
 	text-align: center;
 	margin:calc(50vh - 20px) auto;
 	font-family: sans-serif;
